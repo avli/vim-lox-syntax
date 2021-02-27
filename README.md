@@ -8,4 +8,7 @@ programming language.
 To install with [Vundle](https://github.com/VundleVim/Vundle.vim), add
 `Plugin 'avli/vim-lox-syntax'` to your `~/.vimrc` and run `:PluginInstall`.
 
+## License
+
+[MIT](https://github.com/avli/vim-lox-syntax/blob/main/LICENSE)
 
